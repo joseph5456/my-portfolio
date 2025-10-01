@@ -9,7 +9,7 @@ export default function Home() {
     <div className="min-h-screen bg-gray-800 text-white flex items-center justify-start flex-col gap-12">
       <nav className="flex justify-between py-8 w-full max-w-4xl ">
         <h1 className="font-bold text-lg">Joseph Nguyen</h1>
-        <a className="bg-sky-700 px-4 py-1 rounded-sm border-b-2 border-sky-800 ring ring-sky-800 hover:bg-white hover:text-sky-700 transition-colors focus:border-b-0 focus:mt-0.5" href="/resume.pdf">Resume</a>
+        <a className="bg-sky-700 px-4 py-1 rounded-sm border-b-2 border-sky-800 ring ring-sky-800 hover:bg-white hover:text-sky-700 transition-colors focus:border-b-0 focus:mt-0.5" href="/Joseph_s_resume.pdf">Resume</a>
       </nav>  
 
       <header className="w-full max-w-prose space-y-8">
